@@ -1,1 +1,3 @@
 # fleet_assignment
+
+During a discussion with Sinan from Etihad, a significant Fleet Assignment Problem was outlined. In the aviation industry, aircraft require regular maintenance, which can disrupt flight schedules. To ensure operational continuity, alternate aircraft are assigned to cover these routes. The challenge lies in optimizing this assignment, as it is constrained by factors such as pilot availability, aircraft availability and capacity, and cost. This process is currently handled manually. Based on our initial conversation, I propose the following code to address this problem using linear programming.
